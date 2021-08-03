@@ -56,10 +56,15 @@ body {
 /* ------------------extra section 2 style start-------------- */
 .friendship {
     width: 100%;
-    height: 320px;
+    height: 350px;
 }
 .scnd-btn {
-    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 120px;
+    margin-bottom: 50px;
 }
 /* ------------------extra section 2 style end-------------- */
 /* ---------------------footer style start------------------- */
